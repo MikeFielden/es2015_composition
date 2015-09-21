@@ -1,0 +1,22 @@
+{
+  "name": "es2015_composition",
+  "version": "1.0.0",
+  "description": "An example of using composition over inheritance using es2015",
+  "main": "dist/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "astro test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://MikeFielden@github.com/MikeFielden/es2015_composition.git"
+  },
+  "author": "Mike Fielden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MikeFielden/es2015_composition/issues"
+  },
+  "homepage": "https://github.com/MikeFielden/es2015_composition#readme"
+}
