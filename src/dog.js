@@ -1,7 +1,7 @@
 let barker = require('./abilities/bark')
   , pooper = require('./abilities/poop')
   , eater = require('./abilities/eat')
-  , toJSON = require('./toJSON')
+  , toJSON = require('./abilities/toJSON')
   ;
 
 module.exports = (name) => {
